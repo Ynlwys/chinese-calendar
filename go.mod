@@ -1,5 +1,3 @@
-module github.com/wangzeping722/chinesecalendar
+module github.com/Ynlwys/chinesecalendar
 
-go 1.16
-
-require github.com/stretchr/testify v1.7.0
+go 1.19
